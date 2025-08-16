@@ -12,7 +12,7 @@ int main() {
 
     salario = horas_trabalhadas * valor_hora_trabalhada;
 
-    printf("NUMBER = %i\n", numero_funcionario);
+    printf("NUMBERR = %i\n", numero_funcionario);
     printf("SALARY = U$ %.2f\n", salario);
 
     return 0;
