@@ -1,0 +1,21 @@
+# Binários e executáveis gerados
+a.out
+*.out
+*.exe
+*.app
+*.run
+
+# Arquivos objeto (compilação parcial)
+*.o
+*.obj
+
+# Pasta de configurações do VS Code
+.vscode/
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.temp
+
+# Pasta com executáveis
+/bin/
