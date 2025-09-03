@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int conversos_de_tempo(int segundos){
+void conversos_de_tempo(int segundos){
     int hora, minuto, segundo, resto;
 
     resto = segundos % 3600;
