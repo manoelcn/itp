@@ -9,6 +9,7 @@ Os códigos presentes neste repositório são escritos em **C** e correspondem a
 Os arquivos estão organizados em pastas, onde cada pasta representa um tópico abordado na disciplina. O nome de cada arquivo de código (`.c`) corresponde ao número da questão no Beecrowd.
 
 ### Lista de Tópicos
+- **Arranjos-Matrizes**
 - **Arranjos-Vetores**  
 - **Condicionais**  
 - **Funções**  
