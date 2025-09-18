@@ -9,12 +9,12 @@ Os códigos presentes neste repositório são escritos em **C** e correspondem a
 Os arquivos estão organizados em pastas, onde cada pasta representa um tópico abordado na disciplina. O nome de cada arquivo de código (`.c`) corresponde ao número da questão no Beecrowd.
 
 ### Lista de Tópicos
-01. **Introdução**
-02. **Condicionais**  
-03. **Laços**  
-04. **Funções**  
-05. **Arranjos-Vetores**  
-05. **Arranjos-Matrizes**  
+01. [**Introdução**](https://github.com/manoelcn/itp/tree/main/Introducao)
+02. [**Condicionais**  ](https://github.com/manoelcn/itp/tree/main/Condicionais)
+03. [**Laços**  ](https://github.com/manoelcn/itp/tree/main/Lacos)
+04. [**Funções**  ](https://github.com/manoelcn/itp/tree/main/Funcoes)
+05. [**Arranjos-Vetores**](https://github.com/manoelcn/itp/tree/main/Arranjos-Vetores)
+05. [**Arranjos-Matrizes**](https://github.com/manoelcn/itp/tree/main/Arranjos-Matrizes)
 
 ## Como Executar os Arquivos ⚙️
 Para compilar e executar os códigos em C no seu computador, siga os passos abaixo:
