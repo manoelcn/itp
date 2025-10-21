@@ -16,6 +16,7 @@ Os arquivos estão organizados em pastas, onde cada pasta representa um tópico 
 05. [**Arranjos-Vetores**](https://github.com/manoelcn/itp/tree/main/Arranjos-Vetores)
 05. [**Arranjos-Matrizes**](https://github.com/manoelcn/itp/tree/main/Arranjos-Matrizes)
 06. [**Ponteiros**](https://github.com/manoelcn/itp/tree/main/Ponteiros)
+07. [**Strings**](https://github.com/manoelcn/itp/tree/main/Strings)
 
 ## Como Executar os Arquivos ⚙️
 Para compilar e executar os códigos em C no seu computador, siga os passos abaixo:
